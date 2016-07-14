@@ -1,2 +1,8 @@
 # my_first_Reposity
-如题
+#include<iostream>
+int main()
+{
+  using namespace std;
+  cout<<"my first github.\n";
+  return 0;
+}
